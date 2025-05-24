@@ -5,6 +5,9 @@ This is another practice that I initiated by creating a simple math and implemen
 It performs a simple math:
 
 A- Add function: 1 + 2 = 3
+
 B- Substract function: 3 - 2 = 1
+
 C- Multiply function: 5 * 3 = 15
+
 D- Divide function: 15 / 10 = 1.5
